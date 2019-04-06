@@ -30,3 +30,7 @@ print "4. @names\n";
 # Remove first
 shift(@names);
 print "5. @names\n";
+
+# Slicing elements
+@newNames = @names[1..2];
+print("@newNames\n");
