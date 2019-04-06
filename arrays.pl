@@ -9,24 +9,24 @@ print("$names[0] -> $ages[0]\n");
 
 print("@var\n");
 print("@abc\n");
-print("Size of array var: ".scalar @var."\n");
+print("Size of array var: ".scalar @var."\n\n");
 
 # Editing arrays
-@coins = ("Quarter","Dime","Nickel");
-print "1. \@coins  = @coins\n";
+@names = ("Bob","Michael","Billy");
+print "1. @names\n";
 
 # Add to the end
-push(@coins, "Penny");
-print "2. \@coins  = @coins\n";
+push(@names, "Thomas");
+print "2. @names\n";
 
 # Add to beginning
-unshift(@coins, "Dollar");
-print "3. \@coins  = @coins\n";
+unshift(@names, "John");
+print "3. @names\n";
 
 # Remove last
-pop(@coins);
-print "4. \@coins  = @coins\n";
+pop(@names);
+print "4. @names\n";
 
 # Remove first
-shift(@coins);
-print "5. \@coins  = @coins\n";
+shift(@names);
+print "5. @names\n";
