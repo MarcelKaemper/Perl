@@ -1,6 +1,6 @@
 use Switch;
 
-$num = 30;
+$num = 5;
 
 # if...(elsif...)else...
 if($num==30){
@@ -13,6 +13,13 @@ if($num==30){
 unless(0){
 	print("Unless\n");
 }
+
+switch($num){
+	case 5{print("5")}
+	case 30{print("30")}
+	else {print("Neither 5 nor 30")}	
+}
+print("\n");
 
 
 
