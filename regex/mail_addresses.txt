@@ -1,0 +1,34 @@
+Randomly generated list
+
+gmcgath@att.net
+madler@att.net
+sharon@mac.com
+
+Things that shouldn't match
+test@test
+testtttt
+test@
+com.test@test
+
+aibrahim@msn.com
+portele@yahoo.ca
+stewwy@icloud.com
+parasite@mac.com
+kourai@verizon.net
+scottzed@yahoo.ca
+flaviog@gmail.com
+nogin@me.com
+nanop@verizon.net
+intlprog@outlook.com
+djpig@optonline.net
+jmcnamara@me.com
+kingjoshi@yahoo.ca
+yfreund@yahoo.com
+jugalator@sbcglobal.net
+library@mac.com
+seurat@sbcglobal.net
+dsugal@att.net
+caidaperl@aol.com
+djupedal@me.com
+jhardin@mac.com
+chrisj@yahoo.com
