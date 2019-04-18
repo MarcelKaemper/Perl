@@ -1,0 +1,13 @@
+http://test.org
+https://test.com
+http://www.test.co.uk
+sub.domain.space
+sub.sub.sub.domain.xyz
+
+this is .not
+test
+http://nodomain
+
+https://www.test.net
+test.com
+www.test.net
